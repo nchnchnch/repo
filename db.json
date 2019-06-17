@@ -4,30 +4,35 @@
       "id":1,
       "nume": "index1",
       "data": "01-Iulie-2019",
+      "nrKilowati": 210,
       "tipInregistrare":"citit"
     },
     {
       "id":2,
       "nume": "index2",
       "data": "01-Iulie-2019",
-      "tipInregistrare":"citit"
+      "nrKilowati": 220,
+      "tipInregistrare":"estimat"
     },
     {
       "id":3,
       "nume": "index3",
       "data": "01-Iulie-2019",
+       "nrKilowati": 230,
       "tipInregistrare":"citit"
     },
     {
       "id":4,
       "nume": "index4",
       "data": "01-Iulie-2019",
-      "tipInregistrare":"citit"
+       "nrKilowati": 240,
+      "tipInregistrare":"estimat"
     },
     {
       "id":5,
       "nume": "index5",
       "data": "01-Iulie-2019",
+       "nrKilowati": 250,
       "tipInregistrare":"citit"
     }
   ],

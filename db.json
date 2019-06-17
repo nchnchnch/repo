@@ -1,19 +1,19 @@
 {
   "index": [
     {
-      "id":1.
+      "id":1,
       "nume": "index1",
       "data": "01-Iulie-2019",
       "tipInregistrare":"citit"
     }
     {
-      "id":2.
+      "id":2,
       "nume": "index2",
       "data": "01-Iulie-2019",
       "tipInregistrare":"citit"
     }
     {
-      "id":3.
+      "id":3,
       "nume": "index3",
       "data": "01-Iulie-2019",
       "tipInregistrare":"citit"

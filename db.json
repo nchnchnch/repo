@@ -1,26 +1,31 @@
 {
   "index": [
     {
+      "id":1.
       "nume": "index1",
       "data": "01-Iulie-2019",
       "tipInregistrare":"citit"
     }
     {
+      "id":2.
       "nume": "index2",
       "data": "01-Iulie-2019",
       "tipInregistrare":"citit"
     }
     {
+      "id":3.
       "nume": "index3",
       "data": "01-Iulie-2019",
       "tipInregistrare":"citit"
     }
     {
+      "id":4,
       "nume": "index4",
       "data": "01-Iulie-2019",
       "tipInregistrare":"citit"
     }
     {
+      "id":5,
       "nume": "index5",
       "data": "01-Iulie-2019",
       "tipInregistrare":"citit"
